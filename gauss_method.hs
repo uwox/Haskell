@@ -1,0 +1,1 @@
+-- Gauss method implementation in Haskell programming language
